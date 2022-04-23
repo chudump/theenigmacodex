@@ -11,7 +11,7 @@ Checkout our website at
 Core
 
 [@harsha-sam](https://github.com/harsha-sam)
-[@saikrupa](https://github.com/saikrupa)
+[@saikrupa82](https://github.com/saikrupa82)
 [@itspacchu](https://github.com/itspacchu)
 
 ---
